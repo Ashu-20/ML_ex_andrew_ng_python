@@ -1,1 +1,0 @@
-This is the third exercise of ML course by Andrew ng. In this exercise we first implement logistic regression model to identify handwritten digits from 0 to 9. In second part we implement a forward propagation of neural network to do the same task and compare the accuracy. In this exercise we don't train the neural network layers, that was already done and provided to us.
